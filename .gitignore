@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# compiled js
+dist
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# webstorm files
+.idea/
